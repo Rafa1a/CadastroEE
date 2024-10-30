@@ -1,5 +1,5 @@
 # CadastroEE - Sistema de Cadastro Java EE com Bootstrap
-
+ 
 Este projeto é um sistema de cadastro desenvolvido em Java EE, utilizando o framework Bootstrap para melhorar o design da interface. Ele permite o cadastro e gerenciamento de produtos, seguindo as práticas recomendadas de desenvolvimento Java Enterprise Edition.
 
 ## Estrutura do Projeto
